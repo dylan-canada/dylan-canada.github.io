@@ -8,13 +8,10 @@ This repository hosts a GitHub Pages portfolio for the CS 499 Computer Science C
 
 The homepage contains the Professional Self-Assessment. Dedicated pages contain the code-review overview, original/enhanced artifact comparison, and readable enhancement narratives.
 
-## Content still needed
-
-- Downloadable Word version of the Professional Self-Assessment
-
 ## Included downloads
 
 - Original CS 360 Inventory App project ZIP
 - Final enhanced Inventory App project ZIP
 - Embedded unlisted CS 499 code-review video
+- Downloadable Word version of the Professional Self-Assessment
 - Downloadable Word narratives for all three enhancements

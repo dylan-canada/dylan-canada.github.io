@@ -11,7 +11,7 @@ The homepage contains the Professional Self-Assessment. Dedicated pages contain 
 ## Content still needed
 
 - Final application screenshots
-- Optional downloadable Word versions of each narrative and the self-assessment
+- Downloadable Word version of the Professional Self-Assessment
 
 Placeholder cards are intentionally preserved on the relevant pages until those items are supplied.
 
@@ -20,3 +20,4 @@ Placeholder cards are intentionally preserved on the relevant pages until those 
 - Original CS 360 Inventory App project ZIP
 - Final enhanced Inventory App project ZIP
 - Embedded unlisted CS 499 code-review video
+- Downloadable Word narratives for all three enhancements

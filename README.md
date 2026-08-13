@@ -10,10 +10,7 @@ The homepage contains the Professional Self-Assessment. Dedicated pages contain 
 
 ## Content still needed
 
-- Final application screenshots
 - Downloadable Word version of the Professional Self-Assessment
-
-Placeholder cards are intentionally preserved on the relevant pages until those items are supplied.
 
 ## Included downloads
 

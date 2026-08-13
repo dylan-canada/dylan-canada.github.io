@@ -10,7 +10,6 @@ The homepage contains the Professional Self-Assessment. Dedicated pages contain 
 
 ## Content still needed
 
-- Public or unlisted code-review video URL (the local source exceeds GitHub's per-file limit)
 - Final application screenshots
 - Optional downloadable Word versions of each narrative and the self-assessment
 
@@ -20,3 +19,4 @@ Placeholder cards are intentionally preserved on the relevant pages until those 
 
 - Original CS 360 Inventory App project ZIP
 - Final enhanced Inventory App project ZIP
+- Embedded unlisted CS 499 code-review video
